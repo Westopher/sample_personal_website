@@ -41,7 +41,7 @@ body {
 .jumbotron .container {
 		text-align: center;
 		position: relative;
-    background: #000 url("file:///Users/westkraemer/Desktop/Wyncode/Personal%20Website/Website%20Photos/SAaSKcF.jpg") center center;
+    background: #000 url("../images/SAaSKcF.jpg") center center;
     width: 100%;
     height: 500px;
     background-size: cover;
